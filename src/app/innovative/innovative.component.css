@@ -1,0 +1,30 @@
+.radius{
+    border-radius:300px;
+    height:300px;
+    width:300px;
+    background-image:url("https://ied.eu/wp-content/uploads/2018/06/ideas.png");
+    background-size:cover;
+    float:right;
+}
+
+h2{
+    font-size:60px;
+    color:rgb(213, 184, 87);
+}
+
+
+.three{
+    border:solid;
+    padding:12px;
+    width:400px;
+    height:700px;
+    margin-left:50px;
+    background-color:white;
+}
+button{
+    margin-left:150px;
+    width:100px;
+    background-color: beige;
+    border-radius:200px;
+    height: 25px;
+}

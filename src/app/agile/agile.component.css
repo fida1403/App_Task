@@ -1,0 +1,27 @@
+.circle {
+    border-radius:300px;
+    background-image:url("https://appinventiv.com/wp-content/uploads/sites/1/2018/05/A-Guide-To-Agile-Scrum-Methodology-in-Mobile-App-Development-scaled.webp");
+    height:300px;
+    width:300px;
+    background-size: cover;
+    float:right;
+}
+
+h2{
+    font-size:60px;
+    color:rgb(218, 154, 90);
+}
+.one{
+    padding:12px;
+    border:solid;
+    width:400px;
+    height:700px;
+    background-color: white;
+}
+button{
+    margin-left:150px;
+    width:100px;
+    background-color: beige;
+    border-radius:200px;
+    height:25px;
+}

@@ -1,0 +1,9 @@
+.main{
+    display: flex;
+    align-content: space-between;
+    padding:20px;
+    background-image:url("https://wallpaperboat.com/wp-content/uploads/2019/10/best-background-for-website-01.jpg");
+    background-size: cover;
+}
+
+

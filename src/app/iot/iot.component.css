@@ -1,0 +1,27 @@
+.circle{
+    border-radius:300px;
+    height:300px;
+    width:300px;
+    background-image:url("https://hexaware.com/wp-content/uploads/2022/01/empower-your-iot-ecosystem-with-smart-data.jpg");
+    float:right;
+}
+.second{
+    border:solid;
+    width:400px;
+    height:700px;
+    padding:12px;
+    margin-left: 50px;
+    background-color:white;
+}
+h2{
+    font-size:60px;
+    color:rgb(170, 132, 43);
+}
+button{
+    margin-left:150px;
+    width:100px;
+    background-color: beige;
+    border-radius:200px;
+    height: 25px;
+}
+
